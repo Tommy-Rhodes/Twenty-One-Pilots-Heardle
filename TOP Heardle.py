@@ -1,3 +1,8 @@
+# You will need:
+# Python 3.9.6 or higher 
+# pygame (you can install it with pip install pygame)
+# to change the file directory on line 30 to the file directory you saved the songs folder to
+
 # Imports
 from pygame import mixer
 import random
