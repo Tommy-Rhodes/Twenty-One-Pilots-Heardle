@@ -12,7 +12,7 @@ mixer.init() # Initializing pygame mixer
 
 # Variables
 # Each number is the amount of seconds
-songs = ["Addict With A Pen", "Air Catcher", "Anathema", "Bandiot", "Be Concerned", "Before You Start Your Day",
+songs = ["Addict With A Pen", "Air Catcher", "Anathema", "Bandito", "Be Concerned", "Before You Start Your Day",
          "Bounce Man", "Cancer", "Car Radio", "A Car A Torch A Death", "Chlorine", "Choker", "Christmas Saves The Year",
          "Clear", "Cut My Lip", "Doubt", "Fairly Local", "Fake You Out", "Fall Away", "Forest", "Formidable",
          "Friend Please", "Glowing Eyes", "Goner", "Good Day", "Guns For Hands", "Heathens", "Heavydirtysoul",
